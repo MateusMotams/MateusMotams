@@ -1,7 +1,7 @@
 ### Mateus Mota👨‍💻
 **`Desenvolvedor Fullstack`** **`TI`** **`Ciência de dados`**
 
-Olá dev 🖐️🖐️🖐️ Me chamo Mateus ! Sou desenvolvedor Fullstack e graduando em Engenharia de computação na Universidade Federal do Ceará, ao longo dos anos desenvolvi uma paixão enorme em tudo que envolve computadores mas com um grande foco em programação web, desktop e TI, além de um pouquinho de ciência de dados e inteligência Computacional. Fiz alguns cursos realacionados a área mas grande parte do meu aprendizado se deu por curiosidade. Sempre em busca de aprendizado!
+Olá dev 🖐️🖐️🖐️ Me chamo Mateus ! Sou desenvolvedor Fullstack e graduando em Engenharia de computação na Universidade Federal do Ceará, ao longo dos anos desenvolvi uma paixão enorme em tudo que envolve computadores mas com um grande foco em desenvolvimento web, desktop e TI, além de um pouquinho de ciência de dados e inteligência Computacional. Fiz alguns cursos realacionados a área mas grande parte do meu aprendizado se deu por curiosidade. Sempre em busca de aprendizado!
 
 <p align="left">
     <a href="https://github.com/MateusMotams">
