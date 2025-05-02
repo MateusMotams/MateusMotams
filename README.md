@@ -56,6 +56,6 @@ Olá, Me chamo Mateus ! 🖐️🖐️🖐️ sou desenvolvedor Fullstack, gradu
 <br/><br/><br/><br/>
 
 #
-### 📊 Stats
+### 📊  Estátisticas
 
 ![Mateus Mota Status](https://github-readme-stats.vercel.app/api?username=MateusMotams&show_icons=true&theme=synthwave)
