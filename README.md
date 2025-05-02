@@ -19,7 +19,7 @@ Olá dev 🖐️🖐️🖐️ Me chamo Mateus ! Sou desenvolvedor Fullstack e g
 </p>
 
 ---
-### 🧰 Linguagens e frameworks que mais utilizo/utilizei
+### 🧰 Linguagens e frameworks que mais utilizo/utilizei:
  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +42,7 @@ Olá dev 🖐️🖐️🖐️ Me chamo Mateus ! Sou desenvolvedor Fullstack e g
 
 ---
 
-### 🛠️ Ferramentas que mais utilizo/utilizei
+### 🛠️ Ferramentas que mais utilizo/utilizei:
 <br>
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -50,9 +50,14 @@ Olá dev 🖐️🖐️🖐️ Me chamo Mateus ! Sou desenvolvedor Fullstack e g
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu&logoColor=white)
+
 
 
 
@@ -75,13 +80,13 @@ Olá dev 🖐️🖐️🖐️ Me chamo Mateus ! Sou desenvolvedor Fullstack e g
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MateusMotams&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MateusMotams&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
       <td>
-          <img src= "https://github-readme-streak-stats.herokuapp.com/?user=MateusMotams&theme=radical">
+          <img src= "https://github-readme-streak-stats.herokuapp.com/?user=MateusMotams&theme=tokyonight">
       </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMotams&layout=compact&theme=radical&card_width=445" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMotams&layout=compact&theme=tokyonight&card_width=445" alt="Top Languages" />
     </td>
   </tr>
 </table> 
