@@ -59,3 +59,4 @@ Olá, Me chamo Mateus ! 🖐️🖐️🖐️ sou desenvolvedor Fullstack, gradu
 ### 📊  Estátisticas
 
 ![Mateus Mota Status](https://github-readme-stats.vercel.app/api?username=MateusMotams&show_icons=true&theme=synthwave)
+<img align="left" height="300em" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMotams&bg_color=0a0f1a&color=00bfff&line=1e90ff&point=00ffff&area=true&hide_border=true"/>
