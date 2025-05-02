@@ -72,7 +72,16 @@ Olá dev, Me chamo Mateus ! 🖐️🖐️🖐️ sou desenvolvedor Fullstack, g
 
 ### 📊  Estátisticas
 
-![Mateus Mota Status](https://github-readme-stats.vercel.app/api?username=MateusMotams&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMotams&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MateusMotams&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMotams&layout=compact&theme=radical&card_width=445" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 <img align="left" height="300em" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMotams&bg_color=0a0f1a&color=00bfff&line=1e90ff&point=00ffff&area=true&hide_border=true"/>
